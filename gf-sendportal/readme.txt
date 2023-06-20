@@ -1,6 +1,5 @@
 === Add on for SendPortal on Gravity Forms ===
-Plugin Name:Add on for SendPortal on Gravity Forms
-Contributors: pariiisaa75
+Contributors:pariiisaa75
 Tags: Add-on, Wordpress Plugin, Sendportal, gf-Plugin, Gravity Form
 Requires at least: 5.5
 Tested up to: 6.4

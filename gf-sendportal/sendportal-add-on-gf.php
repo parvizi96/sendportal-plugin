@@ -1,7 +1,6 @@
 <?php 
 /*
 Plugin Name: Add on for SendPortal on Gravity Forms
-Plugin URI: https://parvizi96.ir
 Description:       Add on for SendPortal on Gravity Forms
 Version:           1.0
 Author:            Parisa Parvizi
