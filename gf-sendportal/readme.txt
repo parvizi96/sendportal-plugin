@@ -1,14 +1,15 @@
 === Add on for SendPortal on Gravity Forms ===
-Contributors: Parisa Parvizi
+Plugin Name:Add on for SendPortal on Gravity Forms
+Contributors: pariiisaa75
 Tags: Add-on, Wordpress Plugin, Sendportal, gf-Plugin, Gravity Form
 Requires at least: 5.5
-Tested up to: 6.0
+Tested up to: 6.4
 Stable tag: 1.0
 Requires PHP: 7.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html 
 
-Gravity Form Pakat Add On for Integrate SendPortal API to Gravity Form
+Gravity Form SendPortal Add On for Integrate SendPortal API to Gravity Form
 
 == Description ==
 Using API send data from website to SendPortal API.
@@ -22,7 +23,7 @@ Required to Activate Gravity Form before Install this Plugin..
 Require an Authentication Key from Your SendPortal Account...
 
 == Installation ==
-1. Upload \'pakat-add-on-gf.php\' to the \'/wp-content/plugins/\' directory
+1. Upload \'sendporta-add-on-gf.php\' to the \'/wp-content/plugins/\' directory
 2. Activate the plugin through the \'Plugins\' menu in WordPress
 
 == Privacy ==
